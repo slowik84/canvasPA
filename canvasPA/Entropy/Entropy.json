@@ -4,11 +4,12 @@
   "ControlUniqueIds": {
     "App": 1,
     "Label1": 4,
+    "Label2": 5,
     "Screen1": 3
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "12/06/2022 12:31:03",
+  "HeaderLastSavedDateTimeUTC": "12/06/2022 13:49:42",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -26,6 +27,7 @@
   "PublishOrderIndices": {
     "App": 0,
     "Label1": 0,
+    "Label2": 0,
     "Screen1": 0
   },
   "ResourcesJsonIndices": {},
