@@ -11,3 +11,11 @@ Screen1 As screen:
         Width: =1366
         ZIndex: =1
 
+    Label2 As label:
+        Height: =402
+        Text: ="Text"
+        Width: =810
+        X: =256
+        Y: =280
+        ZIndex: =2
+
